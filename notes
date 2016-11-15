@@ -1,0 +1,25 @@
+Digital innovation economy:
+  Agile brings business closer to development
+
+  The pace of disruption is accelerating
+  The Inseparability of Functionality and Operability
+  Silo-based organizations and manual processes still create waste that impede the ability to deliver continuous change and conduct continuous experiments.
+  User experience software as unified hole (function + operation)
+  Devops + Cloud = Enable continuous experimentation
+
+  There is DevOps witout Cloud
+  There is Cloud without DevOps
+
+
+Lock-in:
+  Software, product or supplier lock-in
+  If you only opt for supporting the lowest common denominator, sometimes you can miss out on many other value add features offered by cloud providers
+  Increase portability by creating modular architectures on top of cloud infrastructure
+  Obvious costs vs more obscure costs (maintain and develop your own solutions)
+  Switching costs
+  Be careful when embracing tools that "do everything"
+  Separete infrastructure provisioning (terraform, cloudformation...) from configuration management (ansible, puppet)
+
+Switching costs:
+  Snowflake servers
+  The one guy that knows how it works
